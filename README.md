@@ -10,7 +10,7 @@ Hello, my name is Alexis Mansilla and I am **Full-Stack Developer** from *Buenos
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://www.linkedin.com/in/alexis1614/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexis1614" height="30" width="40" /></a>
-<a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145802.png" alt="Alexis Mansilla" height="40" width="40" /></a>
+<a href="https://www.facebook.com/Alexis971614" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145802.png" alt="Alexis Mansilla" height="40" width="40" /></a>
   
 :rocket: &nbsp;**My projects**
 <ul>
