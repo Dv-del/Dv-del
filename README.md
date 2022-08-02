@@ -15,19 +15,9 @@ Hello, my name is Alexis Mansilla and I am **Full-Stack Developer** from *Buenos
 :rocket: &nbsp;**My projects**
 <ul>
   <li>
-    <label>Project Individual in Henry</label>
-    <p>
-      Repo: www.google.com.ar
-      <br/>
-      Deploy: www.google.com.ar
-    </p>
-  </li>
-  <li>
     <label>Project Group in Henry</label>
     <p>
-      Repo: www.google.com.ar
-      <br/>
-      Deploy: www.google.com.ar
+      Deploy: <a href='https://app-henry-shoes.herokuapp.com/'>app-henry-shoes</a>
     </p>
   </li>
 </ul>
