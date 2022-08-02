@@ -17,7 +17,19 @@ Hello, my name is Alexis Mansilla and I am **Full-Stack Developer** from *Buenos
   <li>
     <label>Project Group in Henry</label>
     <p>
+      Repo: <a href='https://github.com/Dv-del/PF-henry-shoes'>PF-henry-shoes</a>
       Deploy: <a href='https://app-henry-shoes.herokuapp.com/'>app-henry-shoes</a>
+      <br/>
+      Contributors: <a href='https://github.com/ThonyIucI'>ThonyIucI</a>,
+      <a href='https://github.com/diegop1zarro'>diegop1zarro</a>,
+      <a href='https://github.com/duvangers'>duvangers</a>,
+      <a href='https://github.com/alemosmusi'>alemosmusi</a>
+    </p>
+  </li>
+  <li>
+    <label>Project Individual in Henry</label>
+    <p>
+      Repo: <a href='https://github.com/Dv-del/PI-Videogames'>PI-Videogames</a>
     </p>
   </li>
 </ul>
