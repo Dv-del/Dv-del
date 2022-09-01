@@ -30,6 +30,7 @@ Hello, my name is Alexis Mansilla and I am **Full-Stack Developer** from *Buenos
     <label>Project Individual in Henry</label>
     <p>
       Repo: <a href='https://github.com/Dv-del/PI-Videogames'>PI-Videogames</a>
+      Deploy: <a href='https://app-videogames-dv-del.herokuapp.com/'>app-videogames</a>
     </p>
   </li>
 </ul>
