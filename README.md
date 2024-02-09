@@ -3,9 +3,11 @@
 Hello, my name is Alexis Mansilla and I am **Full-Stack Developer** from *Buenos Aires, Argentina* <img src="https://flagicons.lipis.dev/flags/4x3/ar.svg" width="13" />
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I am currently learning programming technologies 
-- 📫 &nbsp;How to reach me: <a rel="me" href="https://alexis1614@live.com.ar">alexis1614@live.com.ar</a>
+- 🌱 &nbsp;I’m currently learning **Python, .NET and Prompt Flow.**
 - ⚡ &nbsp;Fun fact: I :heart: :video_game:s  (Steam Profile: [dv1614](https://steamcommunity.com/id/dv1614))
+- 👨‍💻 All of my projects are available at [https://alexis-mansilla.vercel.app](https://alexis-mansilla.vercel.app)
+- 💬 Ask me about **React, JS, TS, Node and others more.**
+- 📫 How to reach me **alexis1614@live.com.ar**
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
