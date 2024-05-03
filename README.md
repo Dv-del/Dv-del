@@ -3,7 +3,7 @@
 I am looking for my tech work experience to boost and connect my skills with teams of people and companies in diverse environments.
 
 Who I am?
-Software Development with great capabilities to work on complete and large-scale projects. Teamwork with good communication, leadership, as well as applying the SCRUM and Dual-Track work method. I am passionate about the IT world, for the freedom to express and create technological innovations where my strength is learning.
+Software Developer with great capabilities to work on complete and large-scale projects. Teamwork with good communication, leadership, as well as applying the SCRUM and Dual-Track work method. I am passionate about the IT world, for the freedom to express and create technological innovations where my strength is learning.
 
 Because I?
 Although in this community everyone is excellent in the technique, with me you will have a curious person, eager to apply everything learned so far and further expand my knowledge.
